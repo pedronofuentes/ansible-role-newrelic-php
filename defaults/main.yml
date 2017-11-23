@@ -1,5 +1,10 @@
 ---
 #
+# PHP Extensions directory to place agent configuration
+#
+newrelic_php_extensions_path: /etc/php.d
+
+#
 # New Relic Repo URL used on RHEL / Centos
 #
 newrelic_repo_url: "http://yum.newrelic.com/pub/newrelic/el5/x86_64/newrelic-repo-5-3.noarch.rpm"
